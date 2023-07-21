@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "proxy": "https://mern-portfolio-mocha.vercel.app",
+  "proxy": "https://mern-portfolio-o2ko.vercel.app",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.8.2",
